@@ -1,0 +1,12 @@
+* {
+text-align:center; font-style: italic;
+}
+main {width: 600px; justify-content: center; margin: auto;}
+#Primo-h2{padding: 15px; background-color: lightyellow; font-size: small; color: rgb(0, 149, 255);}
+#Secondo-p {color: lightgray;}
+li {text-align: left;}
+#Primo-h3{text-align: left;}
+#Terzo-p{text-align:left;}
+h3{text-align: left;}
+h4{text-align: left;}
+hr{color: blue;}
